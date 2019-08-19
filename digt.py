@@ -1,6 +1,6 @@
 print ("""Nerver og tilstande, personer
-og fingres ord af mand
+frakkerne sker og sker i
 og frygtelige vibrationer ved
 stederne, dette er mishandlinger,
-frakkerne sker og sker i
+og fingres ord af mand
 fiktioner af de hviskende""")
